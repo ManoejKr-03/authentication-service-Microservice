@@ -1,0 +1,10 @@
+D:\authentication-service\src\main\java\com\example\authentication_service\AuthenticationServiceApplication.java
+D:\authentication-service\src\main\java\com\example\authentication_service\config\AuthConfig.java
+D:\authentication-service\src\main\java\com\example\authentication_service\controller\UserCredentialsController.java
+D:\authentication-service\src\main\java\com\example\authentication_service\dao\UserCredentialsDao.java
+D:\authentication-service\src\main\java\com\example\authentication_service\entity\Roles.java
+D:\authentication-service\src\main\java\com\example\authentication_service\entity\UserCredentialsEntity.java
+D:\authentication-service\src\main\java\com\example\authentication_service\service\CustomUserDetails.java
+D:\authentication-service\src\main\java\com\example\authentication_service\service\CustomUserDetailsService.java
+D:\authentication-service\src\main\java\com\example\authentication_service\service\JwtService.java
+D:\authentication-service\src\main\java\com\example\authentication_service\service\UserCredentialsService.java
