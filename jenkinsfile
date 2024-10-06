@@ -22,6 +22,7 @@ pipeline {
         }
         stage('Deploy') {
             steps {
+                
                 bat "docker rm -f auth-container"
                 bat "docker rmi -f auth-image"
                 bat "docker build -t auth-image ."
